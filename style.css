@@ -1,0 +1,74 @@
+body
+{
+	background-color:lightblue
+}
+#all
+{
+	width:90%;
+	margin:auto;
+}
+#header
+{
+	height:50px;
+	background-color:pink;
+}
+h1
+{
+	margin-left:70px;
+	position:relative;
+	bottom:35px;
+}
+ul
+{
+	text-align:right;
+}
+#menu li 
+{
+  display:inline;
+}
+#nav
+{
+	float:left;
+	background-color:lightgray;
+	height:834px;
+	width:20%
+}
+#article
+{
+	float:left;
+	width:80%
+}
+table,th,tr,td
+{
+	border: 1px solid black;
+	border-collapse:collapse;
+}
+table
+{
+	width:100%;
+	margin:auto;
+}
+td
+{
+	height:200px;
+	vertical-align:text-top;
+}
+.cell1
+{
+	width:20%;
+}
+.cell2
+{
+	width:60%;
+}
+.cell3
+{
+	width:20%;
+}
+#footer
+{
+	clear:both;
+	text-align:center;
+	background-color:gray;
+	height:20px;		
+}
